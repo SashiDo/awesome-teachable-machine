@@ -12,9 +12,9 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="#getting-started-with-teachable-machine"><g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png"><img class="emoji" alt="mag" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png"></g-emoji> Getting Started with Teachable Machine</a></td>
-<td><a href="#starter-projects"><g-emoji class="g-emoji" alias="lock_with_ink_pen" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50f.png"><img class="emoji" alt="lock_with_ink_pen" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50f.png"></g-emoji> Starter Projects</a></td>
-<td><a href="#tutorials"><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png"><img class="emoji" alt="scroll" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png"></g-emoji> Tutorials</a></td>
+<td><a href="#getting-started-with-teachable-machine">👶 Getting Started with Teachable Machine</a></td>
+<td><a href="#starter-projects">🏁 Starter Projects</a></td>
+<td><a href="#tutorials">📚 Tutorials</a></td>
 </tr>
 <tr>
 <td><a href="#teachable-machine-in-the-classroom"><g-emoji class="g-emoji" alias="checkered_flag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png"><img class="emoji" alt="checkered_flag" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png"></g-emoji> Teachable Machine in the Classroom</a></td>
