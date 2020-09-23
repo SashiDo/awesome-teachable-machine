@@ -1,4 +1,8 @@
-# teachable-machine-models-awesome-list
+# The Awesome Teachable Machine Models List 
+
+Curated lists of awesome machine learning models trained with Google's Teachable Machine V2.0. We've evaluated the idea, model and description and selected the most facinating projects to share with you.
+
+The awesomness doesn't end here, we've enriched the list with fantastic learning and inspiration resource.
 
 ДА СМЕНЯ ЕМОТИКОНИТЕ С ПОДХОДЯЩИ!!!!! ДА ПОМИСЛЯ ЗА ПРАИЛНАТА ПОДРЕДБА
 
@@ -43,6 +47,9 @@
 
 ## Awesome Projects Made with Teachable Machine 
 
+## Contribute
+
+Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTE.md].
 
 
 check https://github.com/sindresorhus/awesome/blob/main/awesome.md
