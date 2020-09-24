@@ -15,8 +15,8 @@ The awesomness doesn't end here, we've enriched the list with fantastic learning
 </thead>
 <tbody>
 <tr>
-<td><a href="#getting-started-with-teachable-machine">👶 Getting Started with Teachable Machine</a></td>
-<td><a href="#starter-projects">🏁 Teachable Machine Starter Projects</a></td>
+<td><a href="#getting-started-with-teachable-machine">🏁 Getting Started</a></td>
+<td><a href="#starter-projects">👶 Starter Projects</a></td>
 <td><a href="#libs">📚 Libs</a></td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ The awesomness doesn't end here, we've enriched the list with fantastic learning
 </tbody>
 </table>
 
-## Getting Started with Teachable Machine
+## Getting Started
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
@@ -48,6 +48,29 @@ We'll start with the basics, so in this section, you can find the resources for 
 
 
 ## Starter Projects
+
+The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.
+
+<ul>
+ <li>
+  <ul>Google Creative Team on Medium
+   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866"> Image - Teachable Machine Tutorial: Bananameter</a></li>
+   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491"> Pose - Teachable Machine Tutorial: Head Tilt</a></li>
+   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-snap-clap-whistle-4212fd7f3555">Sound - Teachable Machine Tutorial: Snap, Clap, Whistle</a></li>
+  </ul>
+ </li></br>
+ <li>
+  <ul>The Coding Train on YouTube
+ <li><a href="https://www.youtube.com/watch?v=kwcillcWOg0">Teachable Machine 1: Image Classification</a></li>
+   <li><a href="https://www.youtube.com/watch?v=UPgxnGC8oBU"> Teachable Machine 2: Snake Game</a></li>
+   <li><a href="https://www.youtube.com/watch?v=TOrVsLklltM">Teachable Machine 3: Sound Classification	
+</a></li>
+  </ul>
+ </li>
+
+
+</ul>
+
 
 ## Tutorials
 
