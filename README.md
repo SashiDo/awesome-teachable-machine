@@ -80,7 +80,34 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 ## Tools
 
-## Awesome Projects Made with Teachable Machine 
+## Awesome Apps 
+
+<ul>
+ <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - A Mobile version of Teachable machine</li>
+ <li><a href="https://github.com/jeferson-sb/dogAI">Dog AI</a> - Dog breed image recognition with Teachable Machine & Tensorflow.js</li>
+ <li><a href="https://github.com/atharvapatil/teachable-browser">Sit Straight</a> - A posture classifier that blurs out Youtube videos if users don't sit straight</li>
+ <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera.</li>
+ <li><a href="https://github.com/shaystrong/floss-dab-hairwhip">Floss! Dab! Hair whip!</a> - Shake it up and the model will predict based on your pose, whether you are doing the floss, dab, or hair whip.</li>
+  <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera</li>
+ 
+
+ 
+
+</ul>
+
+## Awesome Games
+
+<ul>
+  <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - A classic snake game controlled by webcam image using pre-trained neural network models.</li>
+
+</ul>
+
+## Community
+
+<ul>
+ <li><a href="https://twitter.com/hashtag/teachablemachine">Projects made with #teachablemachine on Twitter</a></li>
+ <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
+</ul>
 
 ## Contribute
 
