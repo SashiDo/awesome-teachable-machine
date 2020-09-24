@@ -1,13 +1,9 @@
 # The Awesome Teachable Machine Projects List 
 
-Curated lists of awesome machine learning models trained with Google's Teachable Machine V2.0. We've evaluated the idea, model and description and selected the most facinating projects to share with you.
+Curated lists of awesome machine learning models trained with Google's Teachable Machine V2.0. We've evaluated the idea, model and description to select the most fascinating projects and share the finest with you.
 
 The awesomness doesn't end here, we've enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, useful open-source tools and libs. 
  
-Educators, artists, students, innovators, makers of all kinds can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to kids & beginners, finding ways for building physical sorting machine from scratch, as a cookbook of how to spin up a cool MVP in no time, or simply to learn how to train your first machine learning model and get awesome!
-
-
-ДА СМЕНЯ ЕМОТИКОНИТЕ С ПОДХОДЯЩИ!!!!! ДА ПОМИСЛЯ ЗА ПРАИЛНАТА ПОДРЕДБА
 
 <table>
 <thead>
