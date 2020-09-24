@@ -37,13 +37,13 @@ The awesomness doesn't end here, we've enriched the list with fantastic learning
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
  <ul>
- <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - the oficial we site </li>
- <li><a href="https://www.youtube.com/watch?v=T2qQGqZxkD0&feature=emb_title">Teachable Machine 2.0: Making AI easier for everyone</a> - short YouTube video explaining the tool. Start creating and see where your ideas take you!</li>
+ <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The oficial we site </li>
+ <li><a href="https://www.youtube.com/watch?v=T2qQGqZxkD0&feature=emb_title">Teachable Machine 2.0: Making AI easier for everyone</a> - Short YouTube video explaining the tool. Start creating and see where your ideas take you!</li>
  <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - Medium article offering a simple explanation of Teachable Mchine tool.</li>
- <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  a brief hattrick on how to create your first model.</li>
+ <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  A brief hattrick on how to create your first model.</li>
+  <li><a href="https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf">An introduction to Teachable Machine — AI for dummies</a> -  Another awesome piece on Medium that offers detailed explanation on training your first model. Uses pose model option for the example.</li></a>Great article by Barron Webster giving UX insights on designing simple, accessible interfaces for teaching computers</li>
+ <li><a href="">Designing (and Learning From) a Teachable Machine</a>Great article by <a href="https://barronwebster.com/#/0/0">Barron Webster</a> giving UX insights on designing simple, accessible interfaces for teaching computers</li>
 </ul>
-
-### Node.JS 
 
 
 ## Starter Projects
