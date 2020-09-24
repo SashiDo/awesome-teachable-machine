@@ -42,7 +42,8 @@ We'll start with the basics, so in this section, you can find the resources for 
  <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - Medium article offering a simple explanation of Teachable Mchine tool.</li>
  <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  A brief hattrick on how to create your first model.</li>
   <li><a href="https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf">An introduction to Teachable Machine — AI for dummies</a> -  Another awesome piece on Medium that offers detailed explanation on training your first model. Uses pose model option for the example.</li></a>Great article by Barron Webster giving UX insights on designing simple, accessible interfaces for teaching computers</li>
- <li><a href="">Designing (and Learning From) a Teachable Machine</a>Great article by <a href="https://barronwebster.com/#/0/0">Barron Webster</a> giving UX insights on designing simple, accessible interfaces for teaching computers</li>
+ <li><a href="https://design.google/library/designing-and-learning-teachable-machine/">Designing (and Learning From) a Teachable Machine</a> - Great article by <a href="https://barronwebster.com/#/0/0">Barron Webster</a> giving UX insights on designing simple, accessible interfaces for teaching computers</li>
+  <li><a href="https://www.youtube.com/watch?v=PBK5moNYQS8&ab_channel=KrishNaik">Teachable Machine By Google - Train Your Model With Ease</a> - Complete video tutorial explaining the basics of Teachable Machine and showing how a model is created from end to end.</li>
 </ul>
 
 
