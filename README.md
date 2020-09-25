@@ -1,4 +1,4 @@
-# The Awesome Teachable Machine Projects List 
+# The Awesome Teachable Machine List 
 
 Curated lists of awesome machine learning models trained with Google's Teachable Machine V2.0. We've evaluated the idea, model and description to select the most fascinating projects and share the finest with you.
 
