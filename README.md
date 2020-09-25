@@ -106,12 +106,6 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 </ul>
 
-## Awesome Games
-
-<ul>
-  <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - A classic snake game controlled by webcam image using pre-trained neural network models.</li>
-
-</ul>
 
 ## Community
 
@@ -122,7 +116,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 ## Contribute
 
-Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTE.md].
+Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
 
 check https://github.com/sindresorhus/awesome/blob/main/awesome.md
