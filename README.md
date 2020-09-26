@@ -81,13 +81,16 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://towardsdatascience.com/easily-create-an-ai-app-for-your-phone-zero-coding-experience-2d38afd4db14">Easily create an AI app for your phone — zero coding experience</a> - An experimental visual manual of the Royal Enfield motorbike made with p5js and teachable machine for the mobile phone. </li>
  <li><a href="https://learn.adafruit.com/teachable-machine-raspberry-pi-tensorflow-camera?view=all">Raspberry Pi + Teachable Machine = Teachable Pi</a>Train Raspberry Pi to recognize custom models, without a lot of work.</li>
  <li><a href="https://www.hackster.io/alankrantas/use-teachable-machine-ai-to-control-anything-2ad1ee">Use Teachable Machine AI to Control Anything</a> - Check out how to easily employ AI image/sound recognition for your microcontrollers, even if you know nothing about machine learning.</li>
-
+  <li><a href="https://medium.com/@michellecarney/using-teachable-machine-in-the-d-school-classroom-96be1ba6a4f9">Using Teachable Machine in the d.school classroom
+</a>How a tool like Teachable Machine can apply to  teacher's work.</li>
  <li><a href="https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js">[Advanced] How to build a Teachable Machine with TensorFlow.js</a>Feeling ready to build your own Teachable Machine?</li>
   <li><a href="https://coral.ai/projects/teachable-sorter/#project-intro">[Advanced] Sorting Marshmallows with AI: Using Coral + Teachable Machine</a> - A machine that you can teach to rapidly recognize and sort objects using your own custom machine learning models.</li>
 
 </ul>
 
-## Teachable Machine in the Classroom
+## ▶️ Videos
+
+
 
 ## Libs
 
