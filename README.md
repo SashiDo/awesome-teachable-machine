@@ -1,9 +1,11 @@
 # The Awesome Teachable Machine List 
 
-Curated lists of awesome machine learning models trained with Google's Teachable Machine V2.0. We've evaluated the idea, model and description to select the most fascinating projects and share the finest with you.
+Curated lists of awesome machine learning projects built with Google's Teachable Machine V2.0.
 
-The awesomness doesn't end here, we've enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, useful open-source tools and libs. 
- 
+The awesomeness doesn't end here, we've enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, and useful open-source tools and libs.
+
+You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machine from scratch or as a cookbook of how to spin up a cool MVP in no time!
+
 
 <table>
 <thead>
@@ -15,17 +17,17 @@ The awesomness doesn't end here, we've enriched the list with fantastic learning
 </thead>
 <tbody>
 <tr>
-<td><a href="#getting-started-with-teachable-machine">🏁 Getting Started</a></td>
+<td><a href="#getting-started">🏁 Getting Started</a></td>
 <td><a href="#starter-projects">👶 Starter Projects</a></td>
-<td><a href="#libs">📚 Libs</a></td>
+<td><a href="#tutorials">📖 Tutorials</a></td>
 </tr>
 <tr>
-<td><a href="#teachable-machine-in-the-classroom">👨‍🏫 Teachable Machine in the Classroom</a></td>
-<td><a href="#tutorials">📖 Tutorials</a></td>
+<td><a href="#videos"> ▶️ Videos</a></td>
+<td><a href="#libs">📚 Libs</a></td>
 <td><a href="#tools">🛠️ Tools</a></td>
 </tr>
 <tr>
-<td><a href="awesome-projects-made-with-teachable-machine">🦄 Awesome Projects Made with Teachable Machine</a></td>
+<td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Apps Made with Teachable Machine</a></td>
 <td></td>
 <td></td>
 </tr>
@@ -37,9 +39,9 @@ The awesomness doesn't end here, we've enriched the list with fantastic learning
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
  <ul>
- <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The oficial we site </li>
+ <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The oficial website </li>
  <li><a href="https://www.youtube.com/watch?v=T2qQGqZxkD0&feature=emb_title">Teachable Machine 2.0: Making AI easier for everyone</a> - Short YouTube video explaining the tool. Start creating and see where your ideas take you!</li>
- <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - Medium article offering a simple explanation of Teachable Mchine tool.</li>
+ <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - Medium article offering a simple explanation of Teachable Machine tool.</li>
  <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  A brief hattrick on how to create your first model.</li>
   <li><a href="https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf">An introduction to Teachable Machine — AI for dummies</a> -  Another awesome piece on Medium that offers detailed explanation on training your first model. Uses pose model option for the example.</li></a>Great article by Barron Webster giving UX insights on designing simple, accessible interfaces for teaching computers</li>
  <li><a href="https://design.google/library/designing-and-learning-teachable-machine/">Designing (and Learning From) a Teachable Machine</a> - Great article by <a href="https://barronwebster.com/#/0/0">Barron Webster</a> giving UX insights on designing simple, accessible interfaces for teaching computers</li>
