@@ -183,7 +183,7 @@ Although the resources here do not use Google’s Teachable Machine directly, th
 # 💬 Community
 
 <ul>
-  <li><a href="https://github.com/seftimie/TeachableMachine4YoutubeNetflix">Teachable Machine 4 Youtube, Netflix or HBO</a> - .</li>jects made with #teachablemachine on Twitter</a></li>
+  <li><a href="https://twitter.com/hashtag/teachablemachine">Projects made with #teachablemachine on Twitter</a></li>
  <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
 </ul>
 
