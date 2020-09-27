@@ -34,7 +34,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 </tbody>
 </table>
 
-## Getting Started
+## 🏁 Getting Started
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
@@ -49,7 +49,7 @@ We'll start with the basics, so in this section, you can find the resources for 
 </ul>
 
 
-## Starter Projects
+## 👶 Starter Projects
 
 The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.
 
@@ -74,7 +74,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## Tutorials
+## 📖 Tutorials
 
 <ul>
  <li><a href="https://coral.ai/projects/teachable-machine/#project-intro">Embedded Teachable Machine</a> -  This project is a direct re-implementation of f Creative Lab's original Teachable Machine and teaches you how to build a computer vision kit that can learn to recognize different objects in mere minutes.</li>
@@ -105,16 +105,26 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## Libs
+## 📚 Libs
 <ul>
   <li><a href="https://github.com/SashiDo/teachablemachine-node">Teachable Machine on NodeJS</a> - Awesome package that empowers you to load any image classification model trained with the Teachable Machine tool in a Node.Js project. </li>
   <li><a href="https://github.com/traumverloren/teachable-machine-image-nodejs-starter">Teachable Machine image prediction in Node.js & Tensorflow.js</a> - Another starter template for setting up a teachable machine image model in Node.js. </li>
 <li><a href="https://www.npmjs.com/package/node-red-contrib-teachable-machine">Teachable Machine in Node-RED</a>A Node-RED node based in tensorflow.js that enables you to run custom image classification trained models using the Teachable Machine tool.</li>
-
-
+ <li><a href="https://github.com/kre8mymedia/Express-Teachable-Machine">Express Teachable Machine</a> - Quick express installation combined with Teachable Machine</li>
+<li><a href="https://github.com/pourabk-hexaware/insights-teachable-machine-wrapper">A Python Image Classification Template</a> - Real-time detection with OpenCV for any Teachable Machine model.</li>
+<li><a href="https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image">Teachable Machine Library - Image</a> - Library for using image models created with Teachable Machine in JavaScript.</li>
 </ul>
 
-## Tools
+## 🛠️ Tools
+<ul>
+<li><a href="https://www.mblock.cc/doc/en/use-extensions/teachable-machine.html">Teachable Machine extension of mBlock 5.</a></li>
+<li><a href="https://github.com/lukaskirner/teachable-pi-websocket"> Picamera websocket for Teachable Machine</a></li>
+<li><a href="https://github.com/kevinrobinson/warping-machine"> Warping Machine</a> - How well does your Teachable Machine model perform on a generalization data set? This cool project will let you test that.</li>
+ <li><a href="https://github.com/kevinrobinson/conceptual-machine">Conceptual Machine</a> -  How could concepts trained on top of your Teachable Machine model help you explore bias within your model? This cool project will let you test that.</li>
+ <li><a href="https://github.com/kevinrobinson/agreeable-pisces">Agreeable Pisces</a> - How well does your Teachable Machine model generalize to new image searches? This cool project will let you test that.</li>
+ <li><a href="https://github.com/kevinrobinson/greenscreen-machine">Greenscreen Machine</a> - What do Teachable Machine models see when people are composited into different backgrounds? This cool project will let you test that.</li>
+
+</ul>
 
 ## Awesome Apps 
 
@@ -125,10 +135,6 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera.</li>
  <li><a href="https://github.com/shaystrong/floss-dab-hairwhip">Floss! Dab! Hair whip!</a> - Shake it up and the model will predict based on your pose, whether you are doing the floss, dab, or hair whip.</li>
   <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera</li>
- 
-
- 
-
 </ul>
 
 
