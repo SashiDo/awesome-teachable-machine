@@ -28,7 +28,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 </tr>
 <tr>
 <td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Apps Made with Teachable Machine</a></td>
-<td></td>
+<td><a href="community">💬 Community</a></td>
 <td></td>
 </tr>
 </tbody>
@@ -126,7 +126,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 </ul>
 
-## Awesome Apps 
+## 🦄 Awesome Apps 
 
 <ul>
  <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - A Mobile version of Teachable machine</li>
@@ -138,7 +138,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## Community
+## 💬 Community
 
 <ul>
  <li><a href="https://twitter.com/hashtag/teachablemachine">Projects made with #teachablemachine on Twitter</a></li>
