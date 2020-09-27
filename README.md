@@ -95,7 +95,7 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://helloworld.co.in/article/teachable-machine-gesture-controlled-robot-using-machine-learning-model">Earth Rover</a> - Teachable Machine ML Model on Raspberry Pi that recognizes human gestures and lets you control a robot.</li>
 </ul>
 
-## ▶️ Videos
+# ▶️ Videos
 <ul>
  <li><a href="https://www.youtube.com/watch?v=Et6UqGHoR5Y&ab_channel=ialimustufa">Detecting Mask with Zero Coding and ML Knowledge using Teachable Machine
 </a> - Couldn't skip this one in the midst of COVID-19</li>
@@ -116,7 +116,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 <li><a href="https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image">Teachable Machine Library - Image</a> - Library for using image models created with Teachable Machine in JavaScript.</li>
 </ul>
 
-## 🛠️ Tools
+# 🛠️ Tools
 <ul>
 <li><a href="https://www.mblock.cc/doc/en/use-extensions/teachable-machine.html">Teachable Machine extension of mBlock 5.</a></li>
 <li><a href="https://github.com/lukaskirner/teachable-pi-websocket"> Picamera websocket for Teachable Machine</a></li>
@@ -129,20 +129,46 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 # 🦄 Awesome Apps 
 
+### Java
+
 <ul>
  <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - A Mobile version of Teachable machine</li>
+  <li><a href="https://github.com/immu0001/Android-Custom-Image-Classification-App">Android-Custom-Image-Classification-App</a> - TensorFlow Lite image classification Android example application</li>
+ <li><a href="https://github.com/alexisjwu/object-detection-android-app">Object Detection Android App</a> - Project built using Teachable Machine and Tensorflow Lite.</li>
+ </ul>
+
+### Javascript
+
+ <ul>
  <li><a href="https://github.com/jeferson-sb/dogAI">Dog AI</a> - Dog breed image recognition with Teachable Machine & Tensorflow.js</li>
  <li><a href="https://github.com/atharvapatil/teachable-browser">Sit Straight</a> - A posture classifier that blurs out Youtube videos if users don't sit straight</li>
  <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera.</li>
+   <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - A classic snake game controlled by webcam image using pre-trained neural network models.</li>
  <li><a href="https://github.com/shaystrong/floss-dab-hairwhip">Floss! Dab! Hair whip!</a> - Shake it up and the model will predict based on your pose, whether you are doing the floss, dab, or hair whip.</li>
-  <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera</li>
+<li><a href="https://github.com/charliegerard/washOS">WashOS</a> Using a Teachable Machine Sound Model for automatic detection of water running to trigger a countdown to wash your hands in the browser</li>
+ <li><a href="https://github.com/seftimie/TeachableMachine4YoutubeNetflix">Teachable Machine 4 Youtube, Netflix or HBO</a> - ML model to play/pause videos from distance on Youtube, Netflix, or HBO in a hacky way.</li>
+<li><a href="https://github.com/klousell/Speculative-UI">Hands On Head Detection</a> This project yells when you place your hands on your head.</li>
+ <li><a href="https://github.com/starakaj/teachable-machine-starter">Starter project scaffold for working with Teachable Machine</a> - Small scaffold that offers image, sound or drawing recognition examples</li>
+ <li><a href="https://github.com/tomwieck/tensor-dj">Tensor DJ</a> - Using Teachable Machine to identify records. Although we don't possess the same set of records, we like the idea.</li>
+ <li><a href="https://github.com/dylandawk/ml4pcomp-final">Teachable Machine + Harry Potter</a> - For all Hogwarts fans, this project combines Teachable Machine Image and Sound Classifiers with a microcontroller to create a magical wizarding experience.</li>
+ <li><a href="https://github.com/mikahayk/ml4w-homework3-3">Detect a Cup</a> - Using Teachable Machine trained model with ml5 and Arduino to detect a Cup and toggle LED light.</li>
+</ul>
+
+### Python
+
+<ul>
+<li><a href="https://github.com/KimaruThagna/Picture-lytics">Picture-lytics</a> - Using Google's teachable machine to generate an image classification model and serving the model via streamlit. The classification tasks will be brain MRI tumor classification and Plant disease classification.</li>
+ <li><a href="https://github.com/stevenjeong318/smartRecycleSorter">Smart Recycle Sorter</a>< - A very useful application which shows whether the input image is plastic, glass, aluminum, paper, or vinyl using a Teachable Machine./li>
+  <li><a href="https://github.com/Hack-To-The-Future/scanner">Item Scanner</a> - Mini machine learning project using Google's Teachable Machine, Django, and a Raspberry Pi to identify and "scan" items as they are passed in front of the camera.
+</li>
 </ul>
 
 
 # 💬 Community
 
 <ul>
- <li><a href="https://twitter.com/hashtag/teachablemachine">Projects made with #teachablemachine on Twitter</a></li>
+ <li><a href="https://twitter.com/hashtag/teachablemacWashOShine Using a Teachable Machine Sound Model for automatic detection of water running to trigger a countdown to wash your hands in the browser">Pro
+  <li><a href="https://github.com/seftimie/TeachableMachine4YoutubeNetflix">Teachable Machine 4 Youtube, Netflix or HBO</a> - .</li>jects made with #teachablemachine on Twitter</a></li>
  <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
 </ul>
 
