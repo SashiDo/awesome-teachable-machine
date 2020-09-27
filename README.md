@@ -78,6 +78,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 <ul>
  <li><a href="https://coral.ai/projects/teachable-machine/#project-intro">Embedded Teachable Machine</a> -  This project is a direct re-implementation of f Creative Lab's original Teachable Machine and teaches you how to build a computer vision kit that can learn to recognize different objects in mere minutes.</li>
+  <li><a href="https://dev.to/devdevcharlie/acoustic-activity-recognition-in-javascript-2go4">Acoustic activity recognition in JavaScript</a> - A prototype of a browser-based acoustic activity recognition system, classifying speaking, coughing, typing, brushing teeth, and my phone ringing</li>
  <li><a href="https://towardsdatascience.com/easily-create-an-ai-app-for-your-phone-zero-coding-experience-2d38afd4db14">Easily create an AI app for your phone — zero coding experience</a> - An experimental visual manual of the Royal Enfield motorbike made with p5js and teachable machine for the mobile phone. </li>
  <li><a href="https://learn.adafruit.com/teachable-machine-raspberry-pi-tensorflow-camera?view=all">Raspberry Pi + Teachable Machine = Teachable Pi</a>Train Raspberry Pi to recognize custom models, without a lot of work.</li>
  <li><a href="https://www.hackster.io/alankrantas/use-teachable-machine-ai-to-control-anything-2ad1ee">Use Teachable Machine AI to Control Anything</a> - Check out how to easily employ AI image/sound recognition for your microcontrollers, even if you know nothing about machine learning.</li>
@@ -85,11 +86,15 @@ The following resources contain thorough step-by-step instructions on how to cre
 </a>How a tool like Teachable Machine can apply to  teacher's work.</li>
  <li><a href="https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js">[Advanced] How to build a Teachable Machine with TensorFlow.js</a>Feeling ready to build your own Teachable Machine?</li>
   <li><a href="https://coral.ai/projects/teachable-sorter/#project-intro">[Advanced] Sorting Marshmallows with AI: Using Coral + Teachable Machine</a> - A machine that you can teach to rapidly recognize and sort objects using your own custom machine learning models.</li>
-
 </ul>
 
 ## ▶️ Videos
-
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=Et6UqGHoR5Y&ab_channel=ialimustufa">Detecting Mask with Zero Coding and ML Knowledge using Teachable Machine
+</a> - Couldn't skip this one in the midst of COVID-19</li>
+ <li><a href="https://www.youtube.com/watch?v=HLpw0JFY4-E&feature=youtu.be&ab_channel=TheMuratorium">Using React (Hooks) with D3 – [07] Gauge Chart (+ Machine Learning)</a>How to create a gauge/pie chart, which is combined with Teachable Machine and ML5.</li>
+ <li><a href="https://www.youtube.com/watch?v=1NoM72IZoqY&feature=youtu.be&ab_channel=CodeDecoders">How to Integrate TensorFlow Machine Learning Model in a Flutter App</a>Step by step video tutorial</li>
+</ul>
 
 
 ## Libs
