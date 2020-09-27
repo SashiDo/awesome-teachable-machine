@@ -29,8 +29,8 @@ You can use this carefully selected list for your personal inspiration, as a gui
 </tr>
 <tr>
 <td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Apps Made with Teachable Machine</a></td>
-<td><a href="community">💬 Community</a></td>
-<td></td>
+<td><a href="related">🔍 Related</a></td>
+<td><a href="community">💬 Community</td>
 </tr>
 </tbody>
 </table>
@@ -154,13 +154,22 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 ### Python
-
 <ul>
 <li><a href="https://github.com/KimaruThagna/Picture-lytics">Picture-lytics</a> - Using Google's teachable machine to generate an image classification model and serving the model via streamlit. The classification tasks will be brain MRI tumor classification and Plant disease classification.</li>
  <li><a href="https://github.com/stevenjeong318/smartRecycleSorter">Smart Recycle Sorter</a>< - A very useful application which shows whether the input image is plastic, glass, aluminum, paper, or vinyl using a Teachable Machine./li>
   <li><a href="https://github.com/Hack-To-The-Future/scanner">Item Scanner</a> - Mini machine learning project using Google's Teachable Machine, Django, and a Raspberry Pi to identify and "scan" items as they are passed in front of the camera.</li>
-  <li><a href="https://github.com/Theob0t/Gesture-Controlled-Snake-Game"></a></li>
+  <li><a href="https://github.com/Theob0t/Gesture-Controlled-Snake-Game">Gesture Controlled Snake-Game</a> - The classic snake game built with Pygame, OpenCV and Google's Teachable machine V2.0</li>
+  <li><a href="https://github.com/sushantPatrikar/teachable-dinosaur">Teachable Dinosaur</a>Chrome dinosaur game controlled with hand gestures</li>
 </ul>
+  
+# 🔍 Related
+
+<ul>
+ <li><a hef="https://runwayml.com/">Runway></a> - A tool for creators that lets you use machine learning models made by experts (like style transfer models, or GAN’s) in native creative software like Photoshop, Ableton, and others.</li>
+ <li><a href="http://www.wekinator.org/">Wekinator</a> - A free Mac app that allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more.</li>
+<li><a href="https://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/">Asemic Writing Teachable Machine</a>An asemic writing generator that responds to user-set gestures.</li>
+</ul>
+
 
 
 # 💬 Community
@@ -171,7 +180,7 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
 </ul>
 
-# Contribute
+# ⚙️ Contribute
 
 Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
