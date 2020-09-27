@@ -6,6 +6,7 @@ The awesomeness doesn't end here, we've enriched the list with fantastic learnin
 
 You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machine from scratch or as a cookbook of how to spin up a cool MVP in no time!
 
+# Quick links to sections in this page
 
 <table>
 <thead>
@@ -34,7 +35,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 </tbody>
 </table>
 
-## 🏁 Getting Started
+# 🏁 Getting Started
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
@@ -49,7 +50,7 @@ We'll start with the basics, so in this section, you can find the resources for 
 </ul>
 
 
-## 👶 Starter Projects
+# 👶 Starter Projects
 
 The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.
 
@@ -74,7 +75,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## 📖 Tutorials
+# 📖 Tutorials
 
 <ul>
  <li><a href="https://coral.ai/projects/teachable-machine/#project-intro">Embedded Teachable Machine</a> -  This project is a direct re-implementation of f Creative Lab's original Teachable Machine and teaches you how to build a computer vision kit that can learn to recognize different objects in mere minutes.</li>
@@ -105,7 +106,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## 📚 Libs
+# 📚 Libs
 <ul>
   <li><a href="https://github.com/SashiDo/teachablemachine-node">Teachable Machine on NodeJS</a> - Awesome package that empowers you to load any image classification model trained with the Teachable Machine tool in a Node.Js project. </li>
   <li><a href="https://github.com/traumverloren/teachable-machine-image-nodejs-starter">Teachable Machine image prediction in Node.js & Tensorflow.js</a> - Another starter template for setting up a teachable machine image model in Node.js. </li>
@@ -126,7 +127,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 </ul>
 
-## 🦄 Awesome Apps 
+# 🦄 Awesome Apps 
 
 <ul>
  <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - A Mobile version of Teachable machine</li>
@@ -138,14 +139,14 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## 💬 Community
+# 💬 Community
 
 <ul>
  <li><a href="https://twitter.com/hashtag/teachablemachine">Projects made with #teachablemachine on Twitter</a></li>
  <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
 </ul>
 
-## Contribute
+# Contribute
 
 Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
