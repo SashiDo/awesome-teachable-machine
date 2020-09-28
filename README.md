@@ -149,9 +149,9 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera.</li>
    <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - A classic snake game controlled by webcam image using pre-trained neural network models.</li>
  <li><a href="https://github.com/shaystrong/floss-dab-hairwhip">Floss! Dab! Hair whip!</a> - Shake it up and the model will predict based on your pose, whether you are doing the floss, dab, or hair whip.</li>
-<li><a href="https://github.com/charliegerard/washOS">WashOS</a> Using a Teachable Machine Sound Model for automatic detection of water running to trigger a countdown to wash your hands in the browser</li>
+<li><a href="https://github.com/charliegerard/washOS">WashOS</a> - Using a Teachable Machine Sound Model for automatic detection of water running to trigger a countdown to wash your hands in the browser</li>
  <li><a href="https://github.com/seftimie/TeachableMachine4YoutubeNetflix">Teachable Machine 4 Youtube, Netflix or HBO</a> - ML model to play/pause videos from distance on Youtube, Netflix, or HBO in a hacky way.</li>
-<li><a href="https://github.com/klousell/Speculative-UI">Hands On Head Detection</a> This project yells when you place your hands on your head.</li>
+<li><a href="https://github.com/klousell/Speculative-UI">Hands On Head Detection</a> - This project yells when you place your hands on your head.</li>
  <li><a href="https://github.com/starakaj/teachable-machine-starter">Starter project scaffold for working with Teachable Machine</a> - Small scaffold that offers image, sound or drawing recognition examples</li>
  <li><a href="https://github.com/tomwieck/tensor-dj">Tensor DJ</a> - Using Teachable Machine to identify records. Although we don't possess the same set of records, we like the idea.</li>
  <li><a href="https://github.com/dylandawk/ml4pcomp-final">Teachable Machine + Harry Potter</a> - For all Hogwarts fans, this project combines Teachable Machine Image and Sound Classifiers with a microcontroller to create a magical wizarding experience.</li>
@@ -161,22 +161,22 @@ The following resources contain thorough step-by-step instructions on how to cre
 ### Python
 <ul>
 <li><a href="https://github.com/KimaruThagna/Picture-lytics">Picture-lytics</a> - Using Google's teachable machine to generate an image classification model and serving the model via streamlit. The classification tasks will be brain MRI tumor classification and Plant disease classification.</li>
- <li><a href="https://github.com/stevenjeong318/smartRecycleSorter">Smart Recycle Sorter</a>< - A very useful application which shows whether the input image is plastic, glass, aluminum, paper, or vinyl using a Teachable Machine./li>
+ <li><a href="https://github.com/stevenjeong318/smartRecycleSorter">Smart Recycle Sorter</a> - A very useful application which shows whether the input image is plastic, glass, aluminum, paper, or vinyl using a Teachable Machine./li>
   <li><a href="https://github.com/Hack-To-The-Future/scanner">Item Scanner</a> - Mini machine learning project using Google's Teachable Machine, Django, and a Raspberry Pi to identify and "scan" items as they are passed in front of the camera.</li>
   <li><a href="https://github.com/Theob0t/Gesture-Controlled-Snake-Game">Gesture Controlled Snake-Game</a> - The classic snake game built with Pygame, OpenCV and Google's Teachable machine V2.0</li>
-  <li><a href="https://github.com/sushantPatrikar/teachable-dinosaur">Teachable Dinosaur</a>Chrome dinosaur game controlled with hand gestures</li>
-</ul>
+  <li><a href="https://github.com/sushantPatrikar/teachable-dinosaur">Teachable Dinosaur</a> - Chrome dinosaur game controlled with hand gestures</li>
+</ul> 
   
 # 🔍 Related
 
 Although the resources here do not use Google’s Teachable Machine directly, they offer another useful tools or meaningful projects
 
 <ul>
- <li><a hef="https://runwayml.com/">Runway></a> - A tool for creators that lets you use machine learning models made by experts (like style transfer models, or GAN’s) in native creative software like Photoshop, Ableton, and others.</li>
+ <li><a hрef="https://runwayml.com/"> Runway</a> - A tool for creators that lets you use machine learning models made by experts (like style transfer models, or GAN’s) in native creative software like Photoshop, Ableton, and others.</li>
  <li><a href="http://www.wekinator.org/">Wekinator</a> - A free Mac app that allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more.</li>
  <li><a href="https://github.com/RajParikh7/Teachable_Machines_for_Blind">Teachable Machines for Blind</a> - The application is used to help blind people learn how machine learning works by recognizing images and returning sound as output.</li>
  <li><a href="https://github.com/zeajose/first-teachable-machine">My First Teachable Machine</a> - A simple Teachable Machine spinoff using tensorflow.js to do custom 3-class object classifier using a webcam on the fly.</li>
-<li><a href="https://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/">Asemic Writing Teachable Machine</a>An asemic writing generator that responds to user-set gestures.</li>
+<li><a href="https://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/">Asemic Writing Teachable Machine</a> - An asemic writing generator that responds to user-set gestures.</li>
 </ul>
 
 
