@@ -1,10 +1,10 @@
 # The Awesome Teachable Machine List 
 
-Curated lists of awesome machine learning projects built with Google's Teachable Machine V2.0.
+A curated list of awesome machine learning projects built with Google's Teachable Machine.
 
-The awesomeness doesn't end here, we've enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, and useful open-source tools and libs.
+We've also enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, as well as useful open-source tools and libs - all full with awesomeness.
 
-You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machine from scratch or as a cookbook of how to spin up a cool MVP in no time!
+You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machines from scratch or as a cookbook of how to spin up a cool MVP in no time!
 
 # Quick links to sections in this page
 
@@ -47,11 +47,11 @@ We'll start with the basics, so in this section, you can find the resources for 
  <ul>
  <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The oficial website </li>
  <li><a href="https://www.youtube.com/watch?v=T2qQGqZxkD0&feature=emb_title">Teachable Machine 2.0: Making AI easier for everyone</a> - Short YouTube video explaining the tool. Start creating and see where your ideas take you!</li>
- <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - An article on Medium offering a simple explanation of Teachable Machine tool.</li>
- <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  A brief hattrick on how to create your first model.</li>
-  <li><a href="https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf">An introduction to Teachable Machine — AI for dummies</a> -  Another awesome piece on Medium that offers detailed explanation on training your first model. Uses pose model option for the example.</li></a>Great article by Barron Webster giving UX insights on designing simple, accessible interfaces for teaching computers</li>
+ <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - An article offering a simple explanation of Teachable Machine tool.</li>
+ <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  The must-watch series of three videos on how to create your first TM model.</li>
+  <li><a href="https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf">An introduction to Teachable Machine — AI for dummies</a> -  Another awesome detailed explanation on training your first model. Uses pose model option for the example. </li>
  <li><a href="https://design.google/library/designing-and-learning-teachable-machine/">Designing (and Learning From) a Teachable Machine</a> - Great article by <a href="https://barronwebster.com/#/0/0">Barron Webster</a> giving UX insights on designing simple, accessible interfaces for teaching computers</li>
-  <li><a href="https://www.youtube.com/watch?v=PBK5moNYQS8&ab_channel=KrishNaik">Teachable Machine By Google - Train Your Model With Ease</a> - Complete video tutorial explaining the basics of Teachable Machine and showing how a model is created from end to end.</li>
+  <li><a href="https://www.youtube.com/watch?v=PBK5moNYQS8&ab_channel=KrishNaik">Teachable Machine By Google - Train Your Model With Ease</a> - A complete video tutorial explaining the basics of Teachable Machine and showing how a model is created from end to end.</li>
 </ul>
 
 
