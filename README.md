@@ -181,7 +181,7 @@ Although the resources here do not use Google’s Teachable Machine directly, th
 
 Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
-# License
+# 📜 License
 
 Copyright © 2020, CloudStrap AD. See LICENSE for further details.
 
