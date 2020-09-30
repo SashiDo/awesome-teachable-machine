@@ -60,24 +60,13 @@ We'll start with the basics, so in this section, you can find the resources for 
 The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.
 
 <ul>
- <li>
-  <ul>Google Creative Team on Medium
-   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866"> Image - Teachable Machine Tutorial: Bananameter</a></li>
-   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491"> Pose - Teachable Machine Tutorial: Head Tilt</a></li>
-   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-snap-clap-whistle-4212fd7f3555">Sound - Teachable Machine Tutorial: Snap, Clap, Whistle</a></li>
+ <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866"> Image - Teachable Machine Tutorial: Bananameter</a> - Learn how to create a model that can tell if a banana is ripe or not.</li>
+   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491"> Pose - Teachable Machine Tutorial: Head Tilt</a> - Learn how to create a model that detects simple sounds you make.</li>
+   <li><a href="https://medium.com/@warronbebster/teachable-machine-tutorial-snap-clap-whistle-4212fd7f3555">Sound - Teachable Machine Tutorial: Snap, Clap, Whistle</a>Learn how to create a model that recognizes which way you’re tilting your head.</li>
+  <li><a href="https://www.youtube.com/watch?v=kwcillcWOg0">Teachable Machine 1: Image Classification</a> - A simple video on how to import a machine learning model into a p5.js sketch with the ml5.js library.</li>
+   <li><a href="https://www.youtube.com/watch?v=UPgxnGC8oBU"> Teachable Machine 2: Snake Game</a> - A video demonstration on how to control an interaction with an image classification machine learning model to play the snake game.</li>
+   <li><a href="https://www.youtube.com/watch?v=TOrVsLklltM">Teachable Machine 3: Sound Classification</a>- A short video on how to train a sound classifier and import the machine learning model into a p5.js sketch with the ml5.js library. 💻</li>
   </ul>
- </li></br>
- <li>
-  <ul>The Coding Train on YouTube
- <li><a href="https://www.youtube.com/watch?v=kwcillcWOg0">Teachable Machine 1: Image Classification</a></li>
-   <li><a href="https://www.youtube.com/watch?v=UPgxnGC8oBU"> Teachable Machine 2: Snake Game</a></li>
-   <li><a href="https://www.youtube.com/watch?v=TOrVsLklltM">Teachable Machine 3: Sound Classification	
-</a></li>
-  </ul>
- </li>
-
-
-</ul>
 
 
 # 📖 Tutorials
