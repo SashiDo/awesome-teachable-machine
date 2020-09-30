@@ -188,7 +188,3 @@ Awesome contributors are most welcomed! Want to share with the world your amazin
 
 Copyright © 2020, CloudStrap AD. See LICENSE for further details.
 
-
-check https://github.com/sindresorhus/awesome/blob/main/awesome.md
-check https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md
-check https://github.com/EthicalML/awesome-production-machine-learning
