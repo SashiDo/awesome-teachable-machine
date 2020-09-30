@@ -101,22 +101,23 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 # 📚 Libs
 <ul>
-  <li><a href="https://github.com/SashiDo/teachablemachine-node">Teachable Machine on NodeJS</a> - Awesome package that empowers you to load any image classification model trained with the Teachable Machine tool in a Node.Js project. </li>
+  <li><a href="https://github.com/SashiDo/teachablemachine-node">Teachable Machine on NodeJS</a> - A package that empowers you to load any image classification model trained with the Teachable Machine tool in a Node.Js project. </li>
   <li><a href="https://github.com/traumverloren/teachable-machine-image-nodejs-starter">Teachable Machine image prediction in Node.js & Tensorflow.js</a> - Another starter template for setting up a teachable machine image model in Node.js. </li>
-<li><a href="https://www.npmjs.com/package/node-red-contrib-teachable-machine">Teachable Machine in Node-RED</a>A Node-RED node based in tensorflow.js that enables you to run custom image classification trained models using the Teachable Machine tool.</li>
- <li><a href="https://github.com/kre8mymedia/Express-Teachable-Machine">Express Teachable Machine</a> - Quick express installation combined with Teachable Machine</li>
+<li><a href="https://www.npmjs.com/package/node-red-contrib-teachable-machine">Teachable Machine in Node-RED</a> - A Node-RED node based in tensorflow.js that enables you to run custom image classification trained models using the Teachable Machine tool.</li>
+ <li><a href="https://github.com/kre8mymedia/Express-Teachable-Machine">Express Teachable Machine</a> - Quick express installation combined with Teachable Machine.</li>
+ <li><a href="https://github.com/pourabk-hexaware/insights-teachable-machine-wrapper">Python Wrapper for Google Teachable Machine</a>A python based backend for hosting ML models from Google's Teachable Machine and Running demos on webcam.</li>
 <li><a href="https://github.com/pourabk-hexaware/insights-teachable-machine-wrapper">A Python Image Classification Template</a> - Real-time detection with OpenCV for any Teachable Machine model.</li>
 <li><a href="https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image">Teachable Machine Library - Image</a> - Library for using image models created with Teachable Machine in JavaScript.</li>
 </ul>
 
 # 🛠️ Tools
 <ul>
-<li><a href="https://www.mblock.cc/doc/en/use-extensions/teachable-machine.html">Teachable Machine extension of mBlock 5.</a></li>
-<li><a href="https://github.com/lukaskirner/teachable-pi-websocket"> Picamera websocket for Teachable Machine</a></li>
-<li><a href="https://github.com/kevinrobinson/warping-machine"> Warping Machine</a> - How well does your Teachable Machine model perform on a generalization data set? This cool project will let you test that.</li>
- <li><a href="https://github.com/kevinrobinson/conceptual-machine">Conceptual Machine</a> -  How could concepts trained on top of your Teachable Machine model help you explore bias within your model? This cool project will let you test that.</li>
- <li><a href="https://github.com/kevinrobinson/agreeable-pisces">Agreeable Pisces</a> - How well does your Teachable Machine model generalize to new image searches? This cool project will let you test that.</li>
- <li><a href="https://github.com/kevinrobinson/greenscreen-machine">Greenscreen Machine</a> - What do Teachable Machine models see when people are composited into different backgrounds? This cool project will let you test that.</li>
+<li><a href="https://www.mblock.cc/doc/en/use-extensions/teachable-machine.html">Teachable Machine extension of mBlock 5.</a>With this awesome extension, you can create a training model, instead of programming, to enable your computer to learn.</li>
+<li><a href="https://github.com/lukaskirner/teachable-pi-websocket"> Pi camera websocket for Teachable Machine</a> - A websocket that allows you to add images to a Teachable Machine class from a Raspberry Pi camera module.</li>
+<li><a href="https://github.com/kevinrobinson/warping-machine"> Warping Machine</a> - Test how well does your Teachable Machine model perform on a generalization data set.</li>
+ <li><a href="https://github.com/kevinrobinson/conceptual-machine">Conceptual Machine</a> - Test how could concepts trained on top of your Teachable Machine model help you explore bias within your model.</li>
+ <li><a href="https://github.com/kevinrobinson/agreeable-pisces">Agreeable Pisces</a> - Test how well does your Teachable Machine model generalize to new image searches.</li>
+ <li><a href="https://github.com/kevinrobinson/greenscreen-machine">Greenscreen Machine</a> - Test what do Teachable Machine models see when people are composited into different backgrounds.</li>
 
 </ul>
 
