@@ -162,10 +162,10 @@ The following resources contain thorough step-by-step instructions on how to cre
 Although the resources here do not use Google’s Teachable Machine directly, they offer another useful tools or meaningful projects
 
 <ul>
- <li><a hрef="https://runwayml.com/"> Runway</a> - A tool for creators that lets you use machine learning models made by experts (like style transfer models, or GAN’s) in native creative software like Photoshop, Ableton, and others.</li>
+ <li><a href="https://runwayml.com/"> Runway</a> - A tool for creators that lets you use machine learning models made by experts (like style transfer models, or GAN’s) in native creative software like Photoshop, Ableton, and others.</li>
  <li><a href="http://www.wekinator.org/">Wekinator</a> - A free Mac app that allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more.</li>
  <li><a href="https://github.com/RajParikh7/Teachable_Machines_for_Blind">Teachable Machines for Blind</a> - The application is used to help blind people learn how machine learning works by recognizing images and returning sound as output.</li>
- <li><a href="https://github.com/zeajose/first-teachable-machine">My First Teachable Machine</a> - A simple Teachable Machine spinoff using tensorflow.js to do custom 3-class object classifier using a webcam on the fly.</li>
+ <li><a href="https://github.com/zeajose/first-teachable-machine">My First Teachable Machine</a> - A simple Teachable Machine spinoff using tensorflow.js to do custom 3-class object classifiers using a webcam on the fly.</li>
 <li><a href="https://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/">Asemic Writing Teachable Machine</a> - An asemic writing generator that responds to user-set gestures.</li>
 </ul>
 
@@ -180,6 +180,10 @@ Although the resources here do not use Google’s Teachable Machine directly, th
 # ⚙️ Contribute
 
 Awesome [contributors](#contribute) are most welcomed! Want to share with the worls your astonishing model, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
+
+# License
+
+Copyright © 2020, CloudStrap AD. See LICENSE for further details.
 
 
 check https://github.com/sindresorhus/awesome/blob/main/awesome.md
