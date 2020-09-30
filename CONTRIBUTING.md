@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-## Adding resource to an awesome list
+## Adding resource to the Teachable Machine Awesome List
 
 If you have an awesome Teachable Machine resource to contribute, this is how you do it.
 
