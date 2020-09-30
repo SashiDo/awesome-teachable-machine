@@ -28,7 +28,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 <td><a href="#tools">🛠️ Tools</a></td>
 </tr>
 <tr>
-<td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Apps Made with Teachable Machine</a></td>
+<td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Projects</a></td>
 <td><a href="related">🔍 Related</a></td>
 <td><a href="community">💬 Community</td>
 </tr>
@@ -121,23 +121,23 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 </ul>
 
-# 🦄 Awesome Apps 
+# 🦄 Awesome Projects 
 
 ### Java
 
 <ul>
- <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - A Mobile version of Teachable machine</li>
-  <li><a href="https://github.com/immu0001/Android-Custom-Image-Classification-App">Android-Custom-Image-Classification-App</a> - TensorFlow Lite image classification Android example application</li>
- <li><a href="https://github.com/alexisjwu/object-detection-android-app">Object Detection Android App</a> - Project built using Teachable Machine and Tensorflow Lite.</li>
+ <li><a href="https://github.com/mstale007/Teachable_Machine_Mobile">Teachable Machine Mobile</a> - Cool мobile version of Teachable machine</li>
+  <li><a href="https://github.com/immu0001/Android-Custom-Image-Classification-App">Android-Custom-Image-Classification-App</a> -  Simply great TensorFlow Lite image classification Android example application built with TensorFlow Lite.</li>
+ <li><a href="https://github.com/alexisjwu/object-detection-android-app">Object Detection Android App</a> - Using Google's Teachable Machine 2.0 and Tensorflow Lite. It also comes with a simple tutorial that provides a step-by-step instructions. Cool, right?!</li>
  </ul>
 
 ### Javascript
 
  <ul>
- <li><a href="https://github.com/jeferson-sb/dogAI">Dog AI</a> - Dog breed image recognition with Teachable Machine & Tensorflow.js</li>
- <li><a href="https://github.com/atharvapatil/teachable-browser">Sit Straight</a> - A posture classifier that blurs out Youtube videos if users don't sit straight</li>
- <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart a photo in Instagram just by raising thumbs up infront of your camera.</li>
-   <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - A classic snake game controlled by webcam image using pre-trained neural network models.</li>
+ <li><a href="https://github.com/jeferson-sb/dogAI">Dog AI</a> - Dog breed image recognition with Teachable Machine & Tensorflow.js. Woof!🐕</li>
+ <li><a href="https://github.com/atharvapatil/teachable-browser">Sit Straight</a> - A quite useful posture classifier that blurs out Youtube videos if you don't sit straight</li>
+ <li><a href="https://github.com/usacs/instagram-gesture">Gesture-Based Instagram Liker</a> - Heart Instagram photos using Teachable Machine and Google Chrome extension content scripts. Thumbs up for this project!</li>
+   <li><a href="https://github.com/vince19972/TeachableSnake">Teachable Snake</a> - The eternal classic - snake game, just this time controlled by webcam image using pre-trained neural network models.</li>
  <li><a href="https://github.com/shaystrong/floss-dab-hairwhip">Floss! Dab! Hair whip!</a> - Shake it up and the model will predict based on your pose, whether you are doing the floss, dab, or hair whip.</li>
 <li><a href="https://github.com/charliegerard/washOS">WashOS</a> - Using a Teachable Machine Sound Model for automatic detection of water running to trigger a countdown to wash your hands in the browser</li>
  <li><a href="https://github.com/seftimie/TeachableMachine4YoutubeNetflix">Teachable Machine 4 Youtube, Netflix or HBO</a> - ML model to play/pause videos from distance on Youtube, Netflix, or HBO in a hacky way.</li>
