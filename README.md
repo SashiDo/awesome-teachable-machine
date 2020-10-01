@@ -91,6 +91,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 # ▶️ Videos
 <ul>
+ <li><a href="https://www.youtube.com/watch?v=i9tjzr1KME0&feature=youtu.be">Machine learning without code in the browser</a> - How to train a pose model with Teachable Machine in under 10 minutes .</li>
  <li><a href="https://www.youtube.com/watch?v=Et6UqGHoR5Y&ab_channel=ialimustufa">Detecting Mask with Zero Coding and ML Knowledge using Teachable Machine
 </a> - Couldn't skip this one in the midst of COVID-19</li>
  <li><a href="https://www.youtube.com/watch?v=HLpw0JFY4-E&feature=youtu.be&ab_channel=TheMuratorium">Using React (Hooks) with D3 – [07] Gauge Chart (+ Machine Learning)</a> - How to create a gauge/pie chart, which is combined with Teachable Machine and ML5.</li>
