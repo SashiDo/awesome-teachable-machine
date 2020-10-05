@@ -6,39 +6,18 @@ We've also enriched the list with fantastic learning and inspiration resources, 
 
 You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machines from scratch or as a cookbook of how to spin up a cool MVP in no time!
 
-## Quick links to sections in this page
+## Contents
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="#getting-started">🏁 Getting Started</a></td>
-<td><a href="#starter-projects">👶 Starter Projects</a></td>
-<td><a href="#tutorials">📖 Tutorials</a></td>
-</tr>
-<tr>
-<td><a href="#videos"> ▶️ Videos</a></td>
-<td><a href="#libs">📚 Libs</a></td>
-<td><a href="#tools">🛠️ Tools</a></td>
-</tr>
-<tr>
-<td><a href="awesome-apps-made-with-teachable-machine">🦄 Awesome Projects</a></td>
-<td><a href="related">🔍 Related</a></td>
-<td><a href="community">💬 Community</td>
-</tr>
-<tr>
-<td><a href="contribute">⚙️ Contribute</a></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+- 🏁 [**Getting Started**](#gettingstarted)
+- 👶 [**Starter Projects**](#starterprojects)
+- 📖 [**Tutorials**](#tutorials)
+- ▶️ [**Videos**](#videos)
+- 📚 [**Libs**](#libs)
+- 🛠️ [**Tools**](#tools)
+- 🦄 [**Awesome Projects**](#awesomeprojects)
+- 🔍 [**Related**](#related)
+- 💬 [**Community**](#community)
+- ⚙️ [**Contribute**](#contribute)
 
 ## 🏁 Getting Started
 
