@@ -8,17 +8,19 @@ You can use this carefully selected list for your personal inspiration, as a gui
 
 ## Contents
 
-- 🏁 [**Getting Started**](#gettingstarted)
-- 👶 [**Starter Projects**](#starterprojects)
-- 📖 [**Tutorials**](#tutorials)
-- ▶️ [**Videos**](#videos)
-- 📚 [**Libs**](#libs)
-- 🛠️ [**Tools**](#tools)
-- 🦄 [**Awesome Projects**](#awesomeprojects)
-- 🔍 [**Related**](#related)
-- 💬 [**Community**](#community)
-- ⚙️ [**Contribute**](#contribute)
-
+<ul>
+<li><a href="#getting-started">🏁 Getting Started</a></li>
+<li><a href="#starter-projects">👶 Starter Projects</a></li>
+<li><a href="#tutorials">📖 Tutorials</a></li>
+<li><a href="#videos"> ▶️ Videos</a></li>
+<li><a href="#libs">📚 Libs</a></li>
+<li><a href="#tools">🛠️ Tools</a></li>
+<li><a href="awesome-projects">🦄 Awesome Projects</a></li>
+<li><a href="related">🔍 Related</a></li>
+<li><a href="community">💬 Community</li>
+<li><a href="contribute">⚙️ Contribute</a></li>
+</ulli>
+ 
 ## 🏁 Getting Started
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
