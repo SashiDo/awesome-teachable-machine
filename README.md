@@ -21,8 +21,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 <li><a href="contribute">⚙️ Contribute</a></li>
 </ul>
  
-<a id="gettingstarted"></a>
-## 🏁 Getting Started
+## 🏁 Getting Started <span id="gettingstarted"></span>
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
