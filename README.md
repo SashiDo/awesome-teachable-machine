@@ -19,7 +19,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 <li><a href="related">🔍 Related</a></li>
 <li><a href="community">💬 Community</li>
 <li><a href="contribute">⚙️ Contribute</a></li>
-</ulli>
+</ul>
  
 ## 🏁 Getting Started
 
