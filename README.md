@@ -10,7 +10,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 
 <ul>
 <li><a href="#gettingstarted">🏁 Getting Started</a></li>
-<li><a href="#starter-projects">👶 Starter Projects</a></li>
+<li><a href="#starterprojects">👶 Starter Projects</a></li>
 <li><a href="#tutorials">📖 Tutorials</a></li>
 <li><a href="#videos"> ▶️ Videos</a></li>
 <li><a href="#libs">📚 Libs</a></li>
@@ -37,7 +37,7 @@ We'll start with the basics, so in this section, you can find the resources for 
 </ul>
 
 
-## 👶 Starter Projects
+## 👶 Starter Projects <span id="starterprojects"></span>
 
 The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.
 
@@ -51,7 +51,7 @@ The following resources contain thorough step-by-step instructions on how to cre
   </ul>
 
 
-## 📖 Tutorials
+## 📖 Tutorials <span id="tutorials"></span>
 
 <ul>
  <li><a href="https://coral.ai/projects/teachable-machine/#project-intro">Embedded Teachable Machine</a> -  This project is a direct re-implementation of Creative Lab's original Teachable Machine and teaches you how to build a computer vision kit that can learn to recognize different objects in mere minutes.</li>
@@ -70,7 +70,7 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://helloworld.co.in/article/teachable-machine-gesture-controlled-robot-using-machine-learning-model">Earth Rover</a> - How to train a teachable Machine Model on Raspberry Pi robot and control it through gestures.</li>
 </ul>
 
-## ▶️ Videos
+## ▶️ Videos <span id="videos"></span>
 <ul>
  <li><a href="https://www.youtube.com/watch?v=i9tjzr1KME0&feature=youtu.be">Machine learning without code in the browser</a> - How to train a pose model with Teachable Machine in under 10 minutes .</li>
  <li><a href="https://www.youtube.com/watch?v=Et6UqGHoR5Y&ab_channel=ialimustufa">Detecting Mask with Zero Coding and ML Knowledge using Teachable Machine
@@ -82,7 +82,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 </ul>
 
 
-## 📚 Libs
+## 📚 Libs <span id="libs"></span>
 <ul>
   <li><a href="https://github.com/SashiDo/teachablemachine-node">Teachable Machine on NodeJS</a> - A package that empowers you to load any image classification model trained with the Teachable Machine tool in a Node.Js project. </li>
   <li><a href="https://github.com/traumverloren/teachable-machine-image-nodejs-starter">Teachable Machine image prediction in Node.js & Tensorflow.js</a> - Another starter template for setting up a teachable machine image model in Node.js. </li>
@@ -93,7 +93,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 <li><a href="https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image">Teachable Machine Library - Image</a> - Library for using image models created with Teachable Machine in JavaScript.</li>
 </ul>
 
-## 🛠️ Tools
+## 🛠️ Tools <span id="tools"></span>
 <ul>
 <li><a href="https://www.mblock.cc/doc/en/use-extensions/teachable-machine.html">Teachable Machine extension of mBlock 5.</a>With this awesome extension, you can create a training model, instead of programming, to enable your computer to learn.</li>
 <li><a href="https://github.com/lukaskirner/teachable-pi-websocket"> Pi camera websocket for Teachable Machine</a> - A websocket that allows you to add images to a Teachable Machine class from a Raspberry Pi camera module.</li>
@@ -104,7 +104,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 
 </ul>
 
-## 🦄 Awesome Projects 
+## 🦄 Awesome Projects <span id="awesomeprojects"></span>
 
 #### Java
 
@@ -141,7 +141,7 @@ The following resources contain thorough step-by-step instructions on how to cre
   <li><a href="https://github.com/sushantPatrikar/teachable-dinosaur">Teachable Dinosaur</a> - Have fun with this Chrome dinosaur game controlled with hand gestures.</li>
 </ul> 
   
-## 🔍 Related
+## 🔍 Related <span id="related"></span>
 
 Although the resources here do not use Google’s Teachable Machine directly, they offer useful tools that could benefit your next projects or meaningful ideas you could use for inspiration.
 
@@ -154,7 +154,7 @@ Although the resources here do not use Google’s Teachable Machine directly, th
 </ul>
 
 
-## 💬 Community
+## 💬 Community <span id="community"></span>
 
 <ul>
  <li><a href="https://github.com/googlecreativelab/teachablemachine-community/">Teachable Machine Community repo on GitHub</a></li>
@@ -162,7 +162,7 @@ Although the resources here do not use Google’s Teachable Machine directly, th
  <li><a href="https://glitch.com/@teachablemachine">Projects made with #teachablemachine on Glitch</a></li>
 </ul>
 
-## ⚙️ Contribute
+## ⚙️ Contribute <span id="contribute"></span>
 
 Awesome contributors are most welcomed! Want to share with the world your amazing project or  the astonishing resource you stumbled upon, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
