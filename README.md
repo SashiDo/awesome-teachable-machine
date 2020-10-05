@@ -15,7 +15,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 <li><a href="#videos"> ▶️ Videos</a></li>
 <li><a href="#libs">📚 Libs</a></li>
 <li><a href="#tools">🛠️ Tools</a></li>
-<li><a href="awesome-projects">🦄 Awesome Projects</a></li>
+<li><a href="awesomeprojects">🦄 Awesome Projects</a></li>
 <li><a href="related">🔍 Related</a></li>
 <li><a href="community">💬 Community</li>
 <li><a href="contribute">⚙️ Contribute</a></li>
