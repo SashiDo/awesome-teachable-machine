@@ -9,7 +9,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 ## Contents
 
 <ul>
-<li><a href="#🏁gettingstarted">🏁 Getting Started</a></li>
+<li><a href="#gettingstarted">🏁 Getting Started</a></li>
 <li><a href="#starter-projects">👶 Starter Projects</a></li>
 <li><a href="#tutorials">📖 Tutorials</a></li>
 <li><a href="#videos"> ▶️ Videos</a></li>
@@ -21,6 +21,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 <li><a href="contribute">⚙️ Contribute</a></li>
 </ul>
  
+<a id="gettingstarted"></a>
 ## 🏁 Getting Started
 
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
