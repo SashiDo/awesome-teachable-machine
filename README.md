@@ -26,7 +26,7 @@ You can use this carefully selected list for your personal inspiration, as a gui
 We'll start with the basics, so in this section, you can find the resources for complete beginners.
 
  <ul>
- <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The oficial website </li>
+ <li><a href="https://teachablemachine.withgoogle.com"> Teachable Machine 2</a> - The official website </li>
  <li><a href="https://www.youtube.com/watch?v=T2qQGqZxkD0&feature=emb_title">Teachable Machine 2.0: Making AI easier for everyone</a> - Short YouTube video explaining the tool. Start creating and see where your ideas take you!</li>
  <li><a href="https://medium.com/analytics-vidhya/teachable-machine-with-google-baaed5104d08">Teachable Machines With Google</a> - An article offering a simple explanation of Teachable Machine tool.</li>
  <li><a href="https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t">Google’s Gather, Train, Export playlist of video tutorial</a> -  The must-watch series of three videos on how to create your first TM model.</li>
