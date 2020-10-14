@@ -2,7 +2,7 @@
 
 A curated list of awesome machine learning projects built with Google's Teachable Machine.
 
-We've also enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to live, as well as useful open-source tools and libs - all full with awesomeness.
+We've also enriched the list with fantastic learning and inspiration resources, detailed tutorials and articles that will help you bring your creative ideas to life, as well as useful open-source tools and libs - all full with awesomeness.
 
 You can use this carefully selected list for your personal inspiration, as a guidance on how to introduce Machine Learning concepts to others, finding ways for building physical sorting machines from scratch or as a cookbook of how to spin up a cool MVP in no time!
 
