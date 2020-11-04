@@ -54,6 +54,7 @@ The following resources contain thorough step-by-step instructions on how to cre
 ## 📖 Tutorials <span id="tutorials"></span>
 
 <ul>
+ <li><a href="https://blog.sashido.io/how-to-load-a-teachable-machine-image-model-in-a-node-js-project/">How to load a Teachable Machine image model in a Node.Js project</a> -  A short tutorial on how to easily train and load a Teachable Machine's Image classification model to any Node.js application in less than 10 minutes.</li>
  <li><a href="https://coral.ai/projects/teachable-machine/#project-intro">Embedded Teachable Machine</a> -  This project is a direct re-implementation of Creative Lab's original Teachable Machine and teaches you how to build a computer vision kit that can learn to recognize different objects in mere minutes.</li>
   <li><a href="https://towardsdatascience.com/have-you-taught-your-machine-yet-45540b7e646b">How Teachable Machine Learns in the Browser</a> - An awesome guidance on how Google’s Teachable Machine transfers learning right inside your little browser.</li>
   <li><a href="https://dev.to/devdevcharlie/acoustic-activity-recognition-in-javascript-2go4">Acoustic activity recognition in JavaScript</a> - A prototype of a browser-based acoustic activity recognition system, classifying speaking, coughing, typing, brushing teeth, and my phone ringing</li>
