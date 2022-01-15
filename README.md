@@ -77,6 +77,7 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://medium.com/analytics-vidhya/a-fun-project-pose-detector-with-googles-teachable-machine-6c7c8d650be1">Sleepy One</a> - How to build a real-time detector using your computer’s webcam which plays an alarm when you get sleepy & tilt your head beyond certain degrees on either side.</li>
  <li><a href="https://data-driven.com/2019/11/visual-machine-learning-with-teachable-machine-not-happy-baby/">Happy vs Unhappy Baby</a> - A full-stack Data Architect Dad uses Teachable Machine to teach a model to recognize if his teething son is happy or unhappy</li>
  <li><a href="https://helloworld.co.in/article/teachable-machine-gesture-controlled-robot-using-machine-learning-model">Earth Rover</a> - How to train a teachable Machine Model on Raspberry Pi robot and control it through gestures.</li>
+ <li><a href="https://towardsdatascience.com/from-training-to-deployment-stop-biting-your-nails-with-machine-learning-ffed31a59040">From training to deployment: Stop biting your nails with machine learning</a> - Learn how to train a machine learning model with only a few clicks, put it into practice in a simple web application, and deploy it to the cloud to share it with others.</li>
 </ul>
 
 ## ▶️ Videos <span id="videos"></span>
