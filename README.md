@@ -100,6 +100,7 @@ The following resources contain thorough step-by-step instructions on how to cre
  <li><a href="https://github.com/pourabk-hexaware/insights-teachable-machine-wrapper">Python Wrapper for Google Teachable Machine</a>A python based backend for hosting ML models from Google's Teachable Machine and Running demos on webcam.</li>
 <li><a href="https://github.com/Harikrishnan6336/Image_Classifier">A Python Image Classification Template</a> - Real-time detection with OpenCV for any Teachable Machine model.</li>
 <li><a href="https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image">Teachable Machine Library - Image</a> - Library for using image models created with Teachable Machine in JavaScript.</li>
+<li><a href="https://github.com/rafyzg/teachable-machine">Teachable Machine Node.JS</a>- A demonstartion of using Teachable Machine as an API with NodeJS </li>
 </ul>
 
 ## 🛠️ Tools <span id="tools"></span>
